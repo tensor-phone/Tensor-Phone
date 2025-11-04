@@ -15,8 +15,8 @@ To make a phone that helps people live intentionally by merging calm design with
 
 ## Documentation
 - [Trademark filing (USPTO #99098533)](https://tsdr.uspto.gov/#caseNumber=99098533&caseType=SERIAL_NO&searchType=statusSearch)  
-- [Full project plan (PDF)](https://tensorphone.com/files/Tensor-Phone-Full-Plan.pdf)  
-- [ODM Group Vietnam invitation letter (PDF)](https://tensorphone.com/files/Kami-Export-Letter.pdf)  
+- [Full project plan (PDF)]([(https://www.tensorphone.com/info)])  
+- [ODM Group Vietnam invitation letter (PDF)]([(https://www.tensorphone.com/info])  
 
 ## Organization
 Founded by **Aarav Upadhyay** in Newtown, Pennsylvania, USA.  
